@@ -1,0 +1,44 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>{{ page.title }} - {{ site.title }}</title>
+    <meta content="{{ site.keywords }}" name="keywords">
+    <meta content="{{ page.description }}" name="description">
+
+    <meta property="og:title" content="{{ site.title }} - {{ page.title }}" />
+    <meta property="og:description" content="{{ page.description }}" />
+    <meta property="og:type" content="website" />
+
+    <link rel="stylesheet" href="/assets/css/all.min.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  {% include head.html %}
+  <body>
+    {% include header.html %}
+    <div class="wrapper">
+      <header>
+        <img src="{{ site.production_url }}/assets/images/linux.png" alt="foto brian" height="100" width="100">
+        <h2><a href="/" alt="home">brianmengibar</a></h2>
+      </header>
+       <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+       </main>
+      <footer>
+     {% include footer.html %}
+        <p>© 2017 @brianmengibar.  Admin System</p>
+      </footer>
+    </div>
+
+    <script src="/assets/js/all.min.js"></script>
+
+    {% include analytics.html %}
+
+  </body>
+</html>

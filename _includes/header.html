@@ -1,0 +1,19 @@
+<header class="site-header" role="banner">
+
+<div align="left"><img class="displayed" width="405" height="85" src="http://bloginformatico.com/wp-content/uploads/2017/03/bloginformatico.png.pagespeed.ce.NBgSVbN_Rp.png" border=0></div>
+
+  <div class="header">
+    <a class="site-title" href="{{ "/" | relative_url}}">{{ site.title | escape }}</a>
+
+      <div class="trigger">
+        {% for my_page in site.pages %}
+          {% if my_page.title %}
+          <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+          {% endif %}
+        {% endfor %}
+      </div>
+    </nav>
+
+  </div>
+
+</header>

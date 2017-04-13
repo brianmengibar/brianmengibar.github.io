@@ -1,0 +1,23 @@
+{
+  "name": "brianmengibar.github.io",
+  "version": "2.0.1",
+  "description": "Personal site",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brianmengibar/brianmengibar.github.io"
+  },
+  "author": "brianmengibar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brianmengibar/brianmengibar.github.io/issues"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-cssmin": "~0.6.2",
+    "grunt-contrib-uglify": "~0.2.7"
+  }
+}
