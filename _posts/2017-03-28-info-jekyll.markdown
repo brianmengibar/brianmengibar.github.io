@@ -7,7 +7,7 @@ tags: [rubygems,Jekyll,liquid,github]
 ---
 **Que es Jekyll?**
 
-Jekyll és un motor d'anàlisi integrat utilitzat per construir llocs web estàtics, a partir 
+Jekyll és un motor d'anàlisi integrat utilitzat per construir llocs web estàtics a partir 
 de components dinàmics com plantilles, codi de ``liquid``, etc. ``Jekyll`` es coneix com 
 _"un simple bloc generador de llocs estàtics"_.
 
