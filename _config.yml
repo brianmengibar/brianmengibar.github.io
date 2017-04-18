@@ -19,9 +19,8 @@ url: http://brianmengibar.github.io
 author: Brian Mengibar Garcia
 email: brianmengibargarcia@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  L'objectiu d'aquesta pagina es crear un proyecte per poder
-  sapiguer totes les utilitats de jekyll, github i poder compartir-ho
-  amb tots vosaltres.
+  L'objectiu d'aquesta pagina es sapiguer totes les utilitats de jekyll i
+  github per aixi poder compartir-ho amb tots vosaltres.
 baseurl: "" # the subpath of your site, e.g. /blog
 
 #twitter_username: jekyllrb
