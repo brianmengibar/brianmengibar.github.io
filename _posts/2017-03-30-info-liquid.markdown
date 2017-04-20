@@ -5,6 +5,9 @@ date:   2016-12-30 11:27:40 +0200
 categories: jekyll update
 tags: [liquid,Jekyll]
 ---
+
+![liquid](/public/liquid.png)
+
 **Que es Liquid?**
 
 ``Liquid`` és un **llenguatge de plantilles segur desenvolupat per Shopify.** ``Liquid`` està dissenyat

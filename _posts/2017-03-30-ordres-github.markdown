@@ -5,6 +5,9 @@ date:   2017-03-30 11:27:40 +0200
 categories: jekyll update
 tags: [github]
 ---
+
+![ordres-github](/public/ordres-github.png)
+
 **Llista d'ordres útils per Git**
 
 **Per clonar el repositori de GitHub (només una vegada):**

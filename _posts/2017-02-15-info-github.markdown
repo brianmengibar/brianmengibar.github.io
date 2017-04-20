@@ -6,6 +6,8 @@ categories: jekyll update
 tags: [github, Jekyll]
 ---
 
+![github-info](/public/github-info.png)
+
 **Informació adicional**
 
 **Git** és un dels sistemes de control de versions més populars entre 

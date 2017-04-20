@@ -5,6 +5,9 @@ date:   2017-03-28 11:27:40 +0200
 categories: jekyll update
 tags: [rubygems,Jekyll,liquid,github]
 ---
+
+![jekyll](/public/jekyll.png)
+
 **Que es Jekyll?**
 
 Jekyll és un motor d'anàlisi integrat utilitzat per construir llocs web estàtics a partir 
