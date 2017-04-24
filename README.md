@@ -16,7 +16,7 @@ Benvinguts a la meva **pàgina web** on podeu veure temes sobre:
 * ``liquid``
 * ``github``
 
-És un espai on podeu veure un apartat de _noticies_0 amb explicacions sobre els **temes comentats**
+És un espai on podeu veure un apartat de _noticies_ amb explicacions sobre els **temes comentats**
 anteriorment, un apartat de _tutorials_ per que sigui mes facil **d'entendre els temes** i obviament,
 un apartat _about_ per que podeu **contactar amb mi**, ja sigui per **correu**, veient el meu **github**, etc.
 
